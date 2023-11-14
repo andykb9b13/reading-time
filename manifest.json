@@ -1,0 +1,6 @@
+{
+    "manifest_version": 3,
+    "name": "Reading Time",
+    "description": "Adds the expected reading time to a chrome extension",
+    "version": "1.0"
+}
